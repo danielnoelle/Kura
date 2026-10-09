@@ -1,0 +1,11 @@
+{
+  "name": "branch-furniture-storefront",
+  "version": "1.0.0",
+  "description": "Branch Furniture (Canada) Flagship E-Commerce Storefront",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "node tests/branch-catalog.test.js && node tests/branch-css.test.js && node tests/branch-html.test.js && node tests/branch-app.test.js && node tests/branch-smoke.test.js"
+  },
+  "author": "Branch Furniture",
+  "license": "MIT"
+}
